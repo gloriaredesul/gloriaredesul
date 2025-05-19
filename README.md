@@ -1,38 +1,42 @@
 # 👋 Olá, eu sou a @gloriaredesul!
 
-Sou apaixonada por tecnologia, dados e soluções criativas que conectam pessoas e processos. Aqui você vai encontrar projetos que refletem meu aprendizado contínuo e minha vontade de colaborar com a comunidade tech. 🚀
+Sou entusiasta de tecnologia, dados e soluções criativas que otimizam processos e aproximam pessoas. Este repositório é o espaço onde compartilho criações experimentais desenvolvidas para resolver desafios reais do dia a dia profissional — especialmente aqueles que surgem em contextos de operação, automação e análise.
 
-## 👀 Interesses
+Aqui você encontrará notebooks, scripts e protótipos feitos para:
 
-- Análise e visualização de dados  
-- Automação de processos com Python  
-- Tecnologia aplicada a negócios  
-- Projetos que unem propósito e inovação  
+* Facilitar tarefas repetitivas
+* Acelerar conferências manuais
+* Gerar insights práticos a partir de dados
+* Aprimorar fluxos de trabalho com Python e ferramentas acessíveis
 
-## 🌱 Atualmente aprendendo
-
-- Git e GitHub com mais profundidade  
-- Boas práticas de código limpo em Python  
-- Integrações com APIs e automações de tarefas  
-
-## 💞️ Buscando colaborar em
-
-- Projetos que envolvam dados, eficiência de processos e impacto positivo  
-- Iniciativas que incentivem a inclusão e diversidade na tecnologia  
-
-## 📫 Como falar comigo
- 
-- 💼 [LinkedIn](https://www.linkedin.com/in/labarboza)  
-
-## 😄 Pronomes
-
-Ela/dela  
-
-## ⚡ Curiosidade
-
-Pessoas > Tecnologia
+Todos os projetos são frutos do meu aprendizado contínuo e da minha vontade de construir soluções simples, aplicáveis e compartilháveis com a comunidade.
 
 ---
 
-<!---
-gloriaredesul
+## 👀 Interesses
+
+* Análise e visualização de dados
+* Automação de processos com Python
+* Tecnologia aplicada a negócios
+* Soluções que unem propósito, eficiência e impacto
+
+## 🌱 Atualmente aprendendo
+
+* Git e GitHub de forma mais aprofundada
+* Boas práticas de organização e legibilidade de código
+* Integrações com APIs e automações de processos manuais
+
+## 💞️ Buscando colaborar em
+
+* Projetos com foco em dados, eficiência e inovação aplicada
+* Iniciativas que promovam inclusão e diversidade na tecnologia
+
+## 📫 Vamos conversar?
+
+* 💼 [Me encontre no LinkedIn](https://www.linkedin.com/in/labarboza)
+
+## 😄 Pronomes
+
+Ela/dela
+
+
